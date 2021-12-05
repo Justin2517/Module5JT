@@ -6,3 +6,5 @@ For this project I will be designing an electric motor. For this I will need ema
 For this repository and everything included inside, will fall under the MIT License so that anything can be used without any legalities attached.
 
 Ryan added his content :)
+
+# Subheading from Ryan Demboski
