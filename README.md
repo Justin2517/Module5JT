@@ -7,4 +7,4 @@ For this repository and everything included inside, will fall under the MIT Lice
 
 Ryan added his content :)
 
-##Subheading from Ryan Demboski
+# Subheading from Ryan Demboski
